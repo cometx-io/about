@@ -1,10 +1,10 @@
 Please refer to the following rules when posting or commenting.
 
 1. Follow United States law. Posts that break United States law are not allowed. This includes but is not limited to:
-  1. Copyright law
-  1. No selling/distribution of illegal drugs, substances or any other item that is illegal to sell or distribute.
-  1. Do not incite, threaten, or glorify violence or other unlawful behavior
-  1. Do not post or share sexually suggestive content involving minors
+  - Copyright law
+  - No selling/distribution of illegal drugs, substances or any other item that is illegal to sell or distribute.
+  - Do not incite, threaten, or glorify violence or other unlawful behavior
+  - Do not post or share sexually suggestive content involving minors
 2. No spam (repeatedly posting the same thing, posting meaningless or gibberish content).
   1. Repeatedly posting the same content
   1. Posting meaningless or gibberish content
